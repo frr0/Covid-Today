@@ -3,6 +3,7 @@
 echo "The installation has started!"
 echo ""
 echo "Do you have an ssh key for github? [y/n]"
+echo "If you don't know what it is press [n]"
 
 read answer
 
