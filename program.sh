@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 
 rm dpc-covid19-ita-scheda-regioni-latest.pdf
 
