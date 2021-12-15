@@ -16,4 +16,3 @@ sudo cp program.sh /usr/local/bin
 cd /usr/local/bin
 sudo rename program.sh covidtoday program.sh
 
-exit 0
