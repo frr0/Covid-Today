@@ -6,7 +6,7 @@ Script to open a pdf with the most recent data from  @pcm-dpc Presidenza del Con
 
 Run in your terminal the following command
 ```
-wget -q https://github.com/frr0/Covid-Today/blob/master/installer.sh chmod +x installer.sh ./installer.sh
+wget -q https://raw.githubusercontent.com/frr0/Covid-Today/master/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 
 ## Usage
