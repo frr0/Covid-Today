@@ -16,4 +16,5 @@ fi
 cd Covid-Today
 sudo cp program.sh /usr/local/bin
 cd /usr/local/bin
-sudo rename program.sh covidtoday program.sh
+sudo mv program.sh covidtoday
+rm program.sh
